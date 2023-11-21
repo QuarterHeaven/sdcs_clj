@@ -14,4 +14,3 @@ TAGS
 .hgignore
 .hg/
 test.clj
-README.md
