@@ -42,6 +42,6 @@ curl -XDELETE http://127.0.0.1:9529/myname
 0
 ```
 
-Notice that only port 9527 to 9529 are for HTTP requests so don't use them on other ports. Port 9530 to 9532 are for inner rpc use.
+Notice that HTTP requests are only allowed on port 9527 to 9529. Port 9530 to 9532 are for inner rpc use.
 
 You can also test it using [the testsuit](https://github.com/ruini-classes/sdcs-testsuit).
