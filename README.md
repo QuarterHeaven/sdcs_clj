@@ -1,6 +1,6 @@
 # Introduction to sdcs_clj
 
-sdcs_clj is a simple implement of Distributed System [[Course Experiment][https://uestc.feishu.cn/docx/C7ajdHwq9oppWXxhyelcLVvHngc]] created by Clojure.
+sdcs_clj is a simple implement of Distributed System [Course Experiment](https://uestc.feishu.cn/docx/C7ajdHwq9oppWXxhyelcLVvHngc) created by Clojure.
 
 # Usage
 
@@ -44,4 +44,4 @@ curl -XDELETE http://127.0.0.1:9529/myname
 
 Notice that only port 9527 to 9529 are for HTTP requests so don't use them on other ports. Port 9530 to 9532 are for inner rpc use.
 
-You can also test it using [[the testsuit][https://github.com/ruini-classes/sdcs-testsuit]].
+You can also test it using [the testsuit](https://github.com/ruini-classes/sdcs-testsuit).
