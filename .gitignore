@@ -1,0 +1,16 @@
+/target
+/test
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+TAGS
+/.lein-*
+/.nrepl-port
+/.prepl-port
+.hgignore
+.hg/
+test.clj
